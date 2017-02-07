@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\ASworkSpace\\superwechat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\menu\\em_context_contact_list.xml",
+        "source": "D:\\ASworkSpace\\superwechat\\ChatDemoUI3.0\\res\\menu\\em_context_contact_list.xml"
+    },
+    {
+        "merged": "D:\\ASworkSpace\\superwechat\\SuperWeChat\\build\\intermediates\\res\\merged\\debug\\menu\\em_delete_message.xml",
+        "source": "D:\\ASworkSpace\\superwechat\\SuperWeChat\\res\\menu\\em_delete_message.xml"
+    },
+    {
+        "merged": "D:\\ASworkSpace\\superwechat\\SuperWeChat\\build\\intermediates\\res\\merged\\debug\\menu\\em_context_tab_contact.xml",
+        "source": "D:\\ASworkSpace\\superwechat\\SuperWeChat\\res\\menu\\em_context_tab_contact.xml"
+    },
+    {
+        "merged": "D:\\ASworkSpace\\superwechat\\SuperWeChat\\build\\intermediates\\res\\merged\\debug\\menu\\em_remove_from_blacklist.xml",
+        "source": "D:\\ASworkSpace\\superwechat\\SuperWeChat\\res\\menu\\em_remove_from_blacklist.xml"
+    },
+    {
+        "merged": "D:\\ASworkSpace\\superwechat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\menu\\em_context_tab_contact.xml",
+        "source": "D:\\ASworkSpace\\superwechat\\ChatDemoUI3.0\\res\\menu\\em_context_tab_contact.xml"
+    },
+    {
+        "merged": "D:\\ASworkSpace\\superwechat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\menu\\em_remove_from_blacklist.xml",
+        "source": "D:\\ASworkSpace\\superwechat\\ChatDemoUI3.0\\res\\menu\\em_remove_from_blacklist.xml"
+    },
+    {
+        "merged": "D:\\ASworkSpace\\superwechat\\SuperWeChat\\build\\intermediates\\res\\merged\\debug\\menu\\em_delete_contact.xml",
+        "source": "D:\\ASworkSpace\\superwechat\\SuperWeChat\\res\\menu\\em_delete_contact.xml"
+    },
+    {
+        "merged": "D:\\ASworkSpace\\superwechat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\menu\\em_delete_message.xml",
+        "source": "D:\\ASworkSpace\\superwechat\\ChatDemoUI3.0\\res\\menu\\em_delete_message.xml"
+    },
+    {
+        "merged": "D:\\ASworkSpace\\superwechat\\SuperWeChat\\build\\intermediates\\res\\merged\\debug\\menu\\em_context_contact_list.xml",
+        "source": "D:\\ASworkSpace\\superwechat\\SuperWeChat\\res\\menu\\em_context_contact_list.xml"
+    },
+    {
+        "merged": "D:\\ASworkSpace\\superwechat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\menu\\em_delete_contact.xml",
+        "source": "D:\\ASworkSpace\\superwechat\\ChatDemoUI3.0\\res\\menu\\em_delete_contact.xml"
+    }
+]
